@@ -1,0 +1,8 @@
+apache-airflow==1.10.1
+google-cloud
+google_auth_httplib2
+google-api-python-client
+pandas-gbq
+google-cloud-kms>=1.0.0
+pycrypto>=2.6.1
+paramiko>=2.4.2
